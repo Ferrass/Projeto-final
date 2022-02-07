@@ -1,5 +1,5 @@
 let musicas = [
-    {titulo:'Billie Jean', artista:'Michael Jackson', src:'musicas/jackson.mp3', img:'imagens/jacsosandas.jpg'},
+    {titulo:'Billie Jean', artista:'Michael Jackson', src:'musicas/jackson.mp3', img:'imagens/jacsosandas.png'},
     {titulo:'Bad Romance', artista:'Lady Gaga', src:'musicas/1.mp3', img:'imagens/Lady Gaga2.jpg'},
     {titulo:'Ela Partiu', artista:'Tim Maia', src:'musicas/tim maia1.mp3', img:'imagens/tim maia2.jpg'}
 ];
